@@ -1,2 +1,2 @@
-# SensAIStudio
+# sensAIStudio
 This repository contains tools required to train and inference neural networks targetted for Lattice FPGA. The inference tools are available to download from this repository. However, training framework that provides quantization aware training at lower bit precision required to run models on embedded device is not available for download. Please send a request through Lattice sales channel to get access to these tools
